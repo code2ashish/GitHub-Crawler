@@ -28,8 +28,7 @@ def test_openai_key():
     except :
         return False
 # load_dotenv(find_dotenv)
-# os.environ["OPENAI_API_KEY"] = "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"
-# openai.api_key= "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"
+
 c1,c2 = st.columns(2)
 
 with c1:
