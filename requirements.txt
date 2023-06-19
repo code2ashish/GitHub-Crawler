@@ -4,5 +4,3 @@ requests
 jsonlib
 openai 
 
-regex
-time 
