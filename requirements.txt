@@ -1,8 +1,8 @@
-git
-os 
+python-git
+os-sys
 requests
-json
+jsonlib
 openai 
-collections
-re
+
+regex
 time 
