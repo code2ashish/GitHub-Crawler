@@ -1,6 +1,7 @@
-python-git
-os-sys
+git
 requests
-jsonlib
-openai 
-
+json
+openai
+collections
+re
+time
