@@ -1,6 +1,2 @@
 python-git
-requests
-jsonlib
 openai
-regex
-python-time
