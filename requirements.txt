@@ -1,7 +1,6 @@
-git
+python-git
 requests
-json
+jsonlib
 openai
-collections
-re
-time
+regex
+python-time
